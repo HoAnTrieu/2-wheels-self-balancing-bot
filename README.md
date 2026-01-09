@@ -191,6 +191,13 @@ Run `ThongSoTWBR.m` in MATLAB to analyze the system:
 - Verify MPU6050 power (3.3V)
 - Test with I2C scanner sketch
 
+## Authors
+
+- Ho An Trieu
+- Le Ba Hoang
+
+From HUTECH University
+
 ## Contributing
 
 This project combines code from various sources. Please cite original authors when using 3D models or code snippets.

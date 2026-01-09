@@ -191,6 +191,13 @@ Chạy `ThongSoTWBR.m` trong MATLAB để phân tích hệ thống:
 - Xác nhận nguồn MPU6050 (3.3V)
 - Test với sketch quét I2C
 
+## Tác Giả
+
+- Ho An Trieu
+- Le Ba Hoang
+
+Từ Đại Học Công Nghệ Thành Phố Hồ Chí Minh (HUTECH)
+
 ## Đóng Góp
 
 Dự án này kết hợp code từ nhiều nguồn khác nhau. Vui lòng trích dẫn tác giả gốc khi sử dụng mô hình 3D hoặc đoạn code.
